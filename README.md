@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am a tech enthusiast passionate about **Data Ana
 ---
 
 ## 💻 Skills
-- **Programming & Scripting:** Python, PHP, JavaScript, HTML, CSS
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, Jupyter Notebook
+- **Programming & Scripting:** Python, C++, C, Java, PHP, JavaScript, HTML, CSS
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Jupyter Notebook
 - **AI & XAI:** Explainable AI for predictive modeling
 - **Web Development:** Frontend & Backend Development (PHP, HTML, JS)
 - **DevOps & IT:** CI/CD pipelines, Docker, Linux, Networking, Security practices
