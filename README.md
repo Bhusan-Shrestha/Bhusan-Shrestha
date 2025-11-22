@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Bhusan Shrestha
 
-Welcome to my GitHub profile! I am a tech enthusiast passionate about **Data Analysis, Machine Learning, AI, Web Development, DevOps, and IT Networking**. I build projects that solve real-world problems and continuously push the boundaries of technology.
+Welcome to my GitHub profile! I am a tech enthusiast passionate about **DevOps, CyberSecurity, IT Networking, Web Development, AI Data Analysis, Machine Learning**. I build projects that solve real-world problems and continuously push the boundaries of technology.
 
 ---
 
 ## 🔹 About Me
-- 🎓 Focused on **Networking, Network Security, IT, and DevOps**
+- 🎓 Focused on **DevOps, Networking and CyberSecurity**
 - 🚀 Interested in **AI-driven solutions** and **data-powered decision making**
 - 🏆 Lover of efficiency: I value **time, money, and respect**
 - 👨‍👩‍👧 Family-oriented and goal-driven
