@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Bhusan Shrestha
 
-Welcome to my GitHub profile! I am a tech enthusiast passionate about **Data Analysis, Machine Learning, AI, Web Development, and IT Networking**. I build projects that solve real-world problems and continuously push the boundaries of technology.
+Welcome to my GitHub profile! I am a tech enthusiast passionate about **Data Analysis, Machine Learning, AI, Web Development, DevOps, and IT Networking**. I build projects that solve real-world problems and continuously push the boundaries of technology.
 
 ---
 
 ## 🔹 About Me
-- 💼 Currently doing an **Internship at Mercantile Communication Nepal**
-- 🎓 Focused on **Networking, Network Security, and IT**
+- 🎓 Focused on **Networking, Network Security, IT, and DevOps**
 - 🚀 Interested in **AI-driven solutions** and **data-powered decision making**
 - 🏆 Lover of efficiency: I value **time, money, and respect**
 - 👨‍👩‍👧 Family-oriented and goal-driven
+- 🌐 Portfolio: [bhusanshrestha.com.np](https://bhusanshrestha.com.np) – explore my work, projects, and insights
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a tech enthusiast passionate about **Data Ana
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, Jupyter Notebook
 - **AI & XAI:** Explainable AI for predictive modeling
 - **Web Development:** Frontend & Backend Development (PHP, HTML, JS)
-- **Networking & Security:** Switches, Routers, Network configuration, Security practices
+- **DevOps & IT:** CI/CD pipelines, Docker, Linux, Networking, Security practices
 
 ---
 
@@ -44,15 +44,28 @@ Frontend design project: a travel agency landing page for a design competition.
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhusan-Shrestha&show_icons=true&theme=radical" alt="Bhusan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhusan-Shrestha&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhusan-Shrestha&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
 ## 📫 Contact Me
-- Email: **your-email@example.com**  
-- LinkedIn: [https://www.linkedin.com/in/bhusan-shrestha](https://www.linkedin.com/in/bhusan-shrestha)  
-- Portfolio: *Add your portfolio link if available*
+- Email: **bhushanshrestha2060@gmail.com**  
+- Portfolio: [bhusanshrestha.com.np](https://bhusanshrestha.com.np)  
+- LinkedIn: [https://www.linkedin.com/in/bhusan-shrestha](https://www.linkedin.com/in/bhusan-shrestha)
 
 ---
 
 ## ⚡ Fun Fact
-I’m always exploring **new technology trends** and **optimizing processes** for smarter solutions.
+I’m always exploring **new technology trends**, **optimizing processes**, and building **high-impact solutions**.
 
 ---
 
