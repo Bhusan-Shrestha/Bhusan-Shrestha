@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a tech enthusiast passionate about **DevOps, 
 ---
 
 ## 🔹 About Me
-- 🎓 Focused on **DevOps, Machine Learning, AI, Networking and CyberSecurity**
+- 🎓 Focused on **DevOps, Machine Learning, AI, Web Development and CyberSecurity**
 - 🚀 Interested in **AI-driven solutions** and **data-powered decision making**
 - 🏆 Lover of efficiency: I value **time, money, and respect**
 - 👨‍👩‍👧 Family-oriented and goal-driven
