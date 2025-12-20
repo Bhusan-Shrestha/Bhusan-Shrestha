@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I am a tech enthusiast passionate about **Web Deve
 
 ## 🌟 Projects & Highlights
 
-### 1. [Data_Analysis](https://github.com/Bhusan-Shrestha/Data_Analysis)
-Python-based data analysis project exploring, cleaning, and visualizing datasets with actionable insights.
+### 1. [Vehicle_Classification](https://github.com/Bhusan-Shrestha/Vehicle_Classification)
+A deep learning project that classifies vehicles into 10 categories using transfer learning with MobileNetV2.
 
 ### 2. [Emotional_Intelligence_with_XAI](https://github.com/Bhusan-Shrestha/Emotional_Intelligence_with_XAI)
 Machine learning system analyzing emotional patterns using **Explainable AI** to reveal decision reasoning.
