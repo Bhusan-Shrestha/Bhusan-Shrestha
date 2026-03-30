@@ -35,8 +35,8 @@ A robust ML pipeline to classify heart disease risk using clinical data and pred
 ### 4. [Movie-Recommendation](https://github.com/Bhusan-Shrestha/Movie-Recommendation)
 Personalized movie suggestion engine using similarity modeling and efficient recommendation algorithms.
 
-### 5. [Hospital-Appointment-System](https://github.com/Bhusan-Shrestha/Hospital-Appointment-System)
-Web-based system for managing hospital appointments, built with **HTML, JS, PHP** as a collaborative project.
+### 5. [Real-Estate](https://github.com/Bhusan-Shrestha/Real-Estate)
+A full-stack real estate portal using Node.js + React + PostgreSQL
 
 ### 6. [Ghum-Gham](https://github.com/Bhusan-Shrestha/Ghum-Gham)
 Frontend design project: a travel agency landing page for a design competition.
