@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Bhusan Shrestha
 
-Welcome to my GitHub profile! I am a tech enthusiast passionate about **Web Development, AI Data Analysis, Machine Learning**. I build projects that solve real-world problems and continuously push the boundaries of technology.
+Welcome to my GitHub profile! I am a tech enthusiast passionate about **Web Development, DevSecOps, AI Data Analysis, Machine Learning**. I build projects that solve real-world problems and continuously push the boundaries of technology.
 
 ---
 
 ## 🔹 About Me
-- 🎓 Focused on **Machine Learning, AI, DevOps**
+- 🎓 Focused on **Machine Learning, AI, DevSecOps**
 - 🚀 Interested in **AI-driven solutions** and **data-powered decision making**
 - 🏆 Lover of efficiency: I value **time, money, and respect**
 - 👨‍👩‍👧 Family-oriented and goal-driven
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a tech enthusiast passionate about **Web Deve
 - **Programming & Scripting:** Python, C++, C, Java, PHP, JavaScript, HTML, CSS
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Jupyter Notebook
 - **AI & XAI:** Explainable AI for predictive modeling
-- **Web Development:** Frontend & Backend Development (PHP, HTML, JS)
+- **Web Development:** Frontend & Backend Development
 
 ---
 
